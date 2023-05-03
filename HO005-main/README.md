@@ -2,7 +2,6 @@
 
 ## Description
 
-This repository contains the material for the SAP d-com 2023 session called *<https://github.tools.sap/d-com-2023/HO005>*.
 
 The main focus of this session is to develop a custom UI application, which consumes an OData service from an SAP S/4HANA system.
 
